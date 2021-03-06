@@ -1,0 +1,77 @@
+IP: 103.67.156.102
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 103.67.156.102
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 103.67.156.102
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 103.67.156.102
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 2a03:2880:31ff:16::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:16::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:c::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:c::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:12::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:4::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:12::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:4::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:11::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:d::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:11::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:d::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:4::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:12::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:4::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:12::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 31.13.127.13
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:2::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:75::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 31.13.127.118
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 31.13.127.118
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:6f::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:15::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 103.67.156.177
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 2a03:2880:31ff:15::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:78::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 103.67.156.45
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/288.0.0.15.118;]IP: 2a03:2880:31ff:11::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:15::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:13::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:3::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:9::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 103.67.156.45
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 2a03:2880:31ff:4::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:75::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:7::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:76::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:17::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:6::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:15::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:6::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 116.58.200.19
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/288.0.0.15.118;]IP: 2a03:2880:31ff:e::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:13::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:16::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:7::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:2::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:4::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 116.58.201.33
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 2a03:2880:31ff:13::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:a::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:f::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:75::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:31ff:6f::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 2a03:2880:11ff::face:b00c
+ User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1IP: 2a03:2880:31ff:6::face:b00c
+ User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)IP: 116.58.200.236
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0; iris50 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/291.2.0.22.114;]IP: 116.58.201.33
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 116.58.200.236
+ User-Agent: Mozilla/5.0 (Linux; Android 6.0; iris50 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/291.2.0.22.114;]IP: 116.58.201.33
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 43.245.122.133
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 43.245.121.80
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 43.245.121.80
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 43.245.121.80
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 43.245.121.80
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 116.58.201.83
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 116.58.201.83
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36IP: 116.58.201.93
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 116.58.201.93
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36IP: 116.58.201.93
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; Primo G8i 4G Build/OPM2.171019.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
